@@ -1,16 +1,24 @@
 : LALU CICERO DE FINIBUS BONORUM ET MALORUM
 
+M. Tulli Ciceronis de finibus bonorum et malorum libri quinque.
+Recognovit brevique adnotatione critica instruxit L. D.
+Reynolds, Oxford 1998
+
 :: 1 (20160414)
+
+Att. 13.19, 13.12 und 13.21
 
 -
 
 :: 2 (20160421)
 
--6
+Proömium (1): 1.1-6
+
+-
 
 :: 3 (20160428)
 
-7-12
+Proömium (2): 1.7-12
 
 ::: 7
 
@@ -28,9 +36,9 @@ Nicht aber werde ich, wie unser Lucilius, ablehnen, dass mich
 alle lesen. Wenn doch nur jener Persius noch wäre! Scipio erst
 recht und sogar viel mehr noch Rutilius; weil jener das Urteil
 derer scheute, sagte er, dass er für die Tarentiner, Consentiner
-und Siculer schrieb. Dieses aber scherzhaft, wie anderes; damals
+und Siculer schrieb. Dieser aber scherzhaft, wie anderes; damals
 waren sie aber auch nicht so gebildet, dass er sich um ihrer
-Urteil hätte bemühen müssen, und seine die Schriften waren recht
+Urteil hätte bemühen müssen, und seine Schriften waren recht
 leichtsinnig, sodass sich Witz in hohem Maße zeigt,
 Gelehrsamkeit gering.
 
@@ -41,16 +49,18 @@ nicht einmal den Griechen in Philosophie nachsteht, wage zu
 schreiben? Obgleich tue ich das, nachdem ich von dir selbst
 mit diesem mir höchst willkommenen Buch angeregt wurde, das du
 an mich über die Tugend geschickt [mir gewidmet] hast. 
-Ich glaube, dass es bei gewissen Leuten aber deshalb zur Praxis
-kommt, dass sie vor Lateinischer [Literatur] zurückschaudern,
-weil sie in etwas Unkultiviertes und Schreckliches gefallen
-sind, schlecht von den Griechen noch schlechter in Latein
-geschrieben. Diesen stimme ich zu, solange sie nur glauben, dass
-über dieselben Sachen nicht einmal Griechen gelesen werden
-sollten. Wer aber sollte gute Dinge mit ausgewählten Worten,
-die würdevoll und geschmückt formuliert wurden, nicht lesen,
-wenn dieser nicht gänzlich Griechisch gelten wolle, wie
-Albucius, der vom Prätor Scaevola in Athen begrüßt wurde?
+Ich glaube, dass es bei gewissen Leuten aber deshalb aus der
+Erfahrung kommt, dass sie vor Lateinischer [Literatur]
+zurückschaudern, weil sie in etwas Unkultiviertes und
+Schreckliches gestoßen sind, schlecht von den Griechen noch
+schlechter in Latein geschrieben. Diesen stimme ich zu, solange
+sie nur glauben, dass über dieselben Sachen nicht einmal
+Griechen gelesen werden sollten. Wer aber sollte gute Sachen mit
+ausgewählten Worten, die würdevoll und geschmückt formuliert
+wurden, nicht lesen, wenn dieser nicht gänzlich Griechisch
+gelten wolle, wie Albucius, der vom Prätor Scaevola in Athen
+begrüßt wurde?
+
 ::: 9
 
 Diese Stelle jedenfalls hat Lucilius selbst mit viel Anmut und
@@ -62,24 +72,24 @@ ruhmvoller Menschen und führender Zeichenträger genannt werden.
 Auf Griechisch grüße ich dich Prätor in Athen also, wenn du vor
 mich trittst, weil du es so lieber wolltest:
 "Chaire, Titus!" sage ich, und die Liktoren, die ganze Schar und
-Kohorte: "Chaire, Titus!" Seitdem ist Albacius mein Feind,
-seitdem ist er feindlich ["Feindacius"].
+Kohorte: "Chaire, Titus!" Seitdem ist Albucius mein [pol.]
+Feind, seitdem ist er [pers.] feindlich. [Erzfeind]
 
 ::: 10
 
-Aber Mucius ist im Recht. Ich aber kann mich nicht <genug>
+Doch Mucius ist im Recht. Ich aber kann mich nicht <genug>
 wundern, woher diese so übertriebene Abneigung des Einheimischen
-stammt. Dieser Ort ist gänzlich keiner zur Belehrung; so
-empfinde ich aber und ich habe es oft dargelegt, dass die
-lateinische Sprache nicht nur <nicht> mittellos, wie gemeinhin
-geglaubt werden könnte, sondern sogar reicher ist als die
-griechische. Wann nämlich fehlte uns, oder ich möchte sagen
-entweder den guten Rednern oder Dichtern, jedenfalls nachdem sie
-etwas nachahmen konnten, irgendein entweder reicher oder
-eleganter Schmuck der Rede? 
-Ich aber scheine mir nicht mit meinen gerichtlichen Mühen,
+stammt. Hier ist gänzlich kein Ort zur Belehrung; so empfinde
+ich aber und ich habe es oft dargelegt, dass die lateinische
+Sprache nicht nur <nicht> mittellos, wie gemeinhin geglaubt
+werden könnte, sondern sogar reicher ist als die griechische.
+Wann nämlich fehlte uns, oder ich möchte sagen entweder den
+guten Rednern oder Dichtern, jedenfalls nachdem sie jemanden
+nachahmen konnten, irgendein entweder reicher oder eleganter
+Schmuck der Rede? 
+Weil ich mir aber nicht scheine mit meinen gerichtlichen Mühen,
 Arbeiten und Gefahren den Posten verlassen zu haben, auf den ich
-vom römischen Volk gestellt wurde, ich muss gewiss, wie sehr
+vom römischen Volk gestellt wurde, muss ich gewiss, wie sehr
 auch immer ich kann, mich auch in dieser Sache bemühen, dass
 meine Mitbürger durch meine angestrengten Arbeiten gebildeter
 werden, und nicht so sehr mit diesen kämpfen, die es vorziehen,
@@ -91,5 +101,54 @@ nicht sonderlich vermissen.
 
 ::: 11
 
+-
 
 ::: 12
+
+-
+
+
+:: 4 (20160512)
+
+Epikur / Einleitung: 1.13-18
+
+:: 5 (20160519)
+
+Entgegnung / Methodenreflexion: 2.1-6
+
+:: 6 (20160526)
+
+Fragwürdiges in der epikureischen Philosophie: 2.20-25
+
+:: 7 (20160602)
+
+Stoa / Proömium: 3.1-6
+
+:: 8 (20160609)
+
+Höchstes Gut in stoischer Ethik: 3.10-14 u. 16
+
+:: 9 (20160616)
+
+Tugend als einzige Voraussetzung eines glücklichen Lebens:
+3.41-48
+
+:: 10 (20160623)
+
+Entgegnung / Proömium: 4.1-6
+
+:: 11 (20160630)
+
+Gegen die Begrenzung des höchsten Guts auf Tugend: 4.24-31
+
+:: 12 (20160707)
+
+Peripatos / Proömium: 5.1-6
+
+:: 13 (20160714)
+
+Tugend als höchstes Gut: 5.65-72
+
+:: 14 (20160721)
+
+Unterschiede hinsichtlich des Glücks / Abschluss: 5.78-82 u. 96
