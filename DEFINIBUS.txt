@@ -112,6 +112,46 @@ nicht sonderlich vermissen.
 
 Epikur / Einleitung: 1.13-18
 
+::: 13
+
+Um aber von den Leichtesten auszugehen, soll zuerst die Lehre
+Epikurs behandelt werden, die den meisten äußerst bekannt ist.
+Man wird bemerken, dass sie von mir so geschildert wurde, dass
+von denen selbst, die diese Disziplin befürworten, man nicht
+gewohnt ist, dass sie akkurater erklärt wird; wir wollen nämlich
+die Wahrheit finden, nicht gleichsam irgendeinen Gegner
+überführen. Gründlich aber wurde einst von L. Torquatus, einem
+Menschen von ganzer Gelehrsamkeit und Bildung, die Idee Epikurs
+über die Lust verteidigt, und ihm wurde von mir geantwortet,
+während C. Triarius, ein äußerst ernster und gelehrter junger
+Mann, an dieser Unterredung teilnahm.
+
+::: 14
+
+Denn als beide zu mir nach Cuma kamen, um mich zu begrüßen,
+sprachen wir erst ein wenig über Literatur, an die beide
+größten Eifer hatten, dann sagte Torquatus: "Da wir dich einmal
+ohne Beschäftigung aufgefunden haben, darf ich sicher hören, was 
+der Grund sei, dass du unseren Epikur zwar nicht hasst, wie es
+ungefähr die tun, die von ihm abweichen, aber sicher nicht
+anerkennst, ich [jedenfalls] betrachte ihn als den einzigen, der
+die Wahrheit gesehen hat und die Geister der Menschen von den
+größten Fehlern befreit und alles gelehrt hat, was ein gutes
+und glückliches Leben betrifft. Ich glaube aber, dass du, wie
+unser Triarius, weniger von ihm erfreut wirst, weil er diesen
+Schmuck der Rede des Platon, Aristoteles und Theoprast
+unterließ. Denn dazu kann ich gewiss kaum veranlasst werden,
+dass die Dinge, die er empfunden hatte, dir nicht wahr 
+erscheinen."
+
+::: 15
+
+::: 16
+
+::: 17
+
+::: 18
+
 :: 5 (20160519)
 
 Entgegnung / Methodenreflexion: 2.1-6
@@ -120,9 +160,186 @@ Entgegnung / Methodenreflexion: 2.1-6
 
 Fragwürdiges in der epikureischen Philosophie: 2.20-25
 
+::: 20
+
+Glaube ja nicht, es seien nur der Worte nach, es sind nämlich
+auch der Sache nach zwei. Es ist eines, ohne Schmerz zu sein,
+etwas anderes mit Lust. Ihr versucht aus diesen so
+unterschiedlichen Dingen nicht nur einen Namen (denn das würde
+ich leichter zulassen), sondern auch eine Sache aus zweien zu
+machen, was auf keine Weise geschehen kann. Derjenige, der
+beides für richtig befindet, musste sich an beidem bedienen,
+so wie er es an einer Sache tut, und nicht jedoch durch Worte
+trennen. Denn wenn er nämlich diese Lust selbst, die wir alle
+mit demselben Namen bezeichnen, an sehr vielen Stellen lobt,
+wagt er er zu sagen, er könne sicher keinerlei Gut einbilden,
+das nach Art des Aristipps von der Lust abgetrennt wurde, und
+das sagt er auch dort, wo dessen ganze Rede über das höchste Gut
+ist. In einem anderen Buch aber, in dem gesagt wird, dass er
+mit kurz gefassten, schweren Sätzen gleichsam Orakelsprüche der
+Weisheit verfasst hat, schreibt er mit diesen Worten, die dir,
+Torquatus, sicherlich bekannt sind (Wer nämlich von euch hat
+nicht Epikurs >Kyriai Doxai< auswendig gelernt, das meint
+gleichsam die am meisten gültigen, weil sie über das glückliche
+Leben die wichtigsten Sätze sind, die kurz ausgedrückt wurden?).
+
+
+::: 21
+
+Geb deshalb Acht, ob ich diesen Satz korrekt deute: "Wenn das,
+was den Überschwänglichen die Wirksamkeit der Lust ist, sie von
+der Angst vor den Göttern, vor dem Tod und vor Schmerzen
+befreien und lehren würde, dass es Grenzen der Begierde gibt,
+hätten wir nichts <was wir tadeln müssten>, denn sie wären von
+allen Seiten mit Lust erfüllt und hätten nicht von irgend einer
+Seite irgendetwas Schmerzliches oder kränklich, was aber das
+schlechte ist.'" 
+An diesem Ort konnte Triarius sich nicht <mehr> halten. Er
+sagte: "Ich beschwöre dich, Torquatus, sowas sagt Epikur?" (es
+schien mir jedenfalls, dass er es wusste, jedoch hören Torquatus
+hören wollte, wie er gesteht). 
+Jener aber gerat nicht in Furcht und sagte ganz selbstbewusst:
+"Jawohl mit diesen selben Worten, aber was es bedeutet, seht ihr
+nicht." 
+"Wenn er etwas anderes meint", sagte ich, "als er sagt, werde
+ich nie verstehen, was er meint; aber er sagt klar, was er
+denkt. Und wenn er das so sagt, dass die Überschwänglichen nicht
+getadelt werden sollen, wenn sie weise sind, redet er unsinnig,
+ähnlich auch wie wenn er sagen würde, verruchte Mörder seien
+nicht zu tadeln, wenn sie weder begierig sind, noch die Götter
+fürchten, noch den Tod oder Schmerz. Und was jedoch hält fest,
+dass Überschwänglichen irgendeine Ausnahme gegeben wird oder
+sich irgendwelche Leute vorzustellen, die, obwohl sie
+überschwänglich leben, vom größten Philosophen nicht getadelt
+werden lediglich unter der Bedingung, dass sie sich vor anderem
+hüten?
+
+
+::: 22
+
+
+
+::: 23
+
+::: 24
+
+::: 25
+
 :: 7 (20160602)
 
 Stoa / Proömium: 3.1-6
+
+::: 1
+
+Die Lust jedenfalls, Brutus, wenn sie selbst für sich spräche
+und nicht so hartnäckige Schutzherren hätte, würde der Würde
+eingestehen, nehme ich an, dass sie im oberen Buche widerlegt
+wurde. Denn es wäre schamlos, wenn sie sich der Tugend länger
+widersetzen oder wenn sie Angenehmes dem Ehrvollen vorziehen
+oder behaupten würde, dass Süßes des Körpers oder daraus
+entsprungene Freude mehr <wert> sei als Ernsthaftigkeit des
+Geistes und Beständigkeit. Wir wollen sie deshalb entlassen
+und auffordern, sich in ihren Grenzen zu halten, damit nicht
+durch ihre Schmeicheleien und T inlecebris T der Ernst der
+Untersuchung gestört wird.
+
+
+::: 2
+
+Es gilt nämlich zu ergründen, wo jenes höchste Gut ist, das wir
+finden wollen, denn sowohl die Lust ist von ihm entfernt als
+auch können beinahe dieselben Dinge gegen gegen die sagen, die
+dass das Freisein von Schmerzen die Grenze des Guten ist; und
+aber auch nicht wird irgendetwas als das höchste Gut befunden,
+dem es an Tugend mangelt, zu der im Vergleich nichts
+vorzüglicher sein kann. 
+Und so war ich zwar in dieser Unterredung, die mit Torquatus
+gehalten wurde, nicht zurück geschickt worden, jedoch ist dieser
+Konflikt mit den Stoikern schärfer, der [nun] bereit steht. Denn
+was über die Lust gesagt wird, wird weder sehr scharfsinnig,
+noch geheim erörtert; Auch nämlich sind diejenigen, die sie
+verteidigen, weder raffiniert in der Auseinandersetzung, noch
+widerlegen diejenigen, die dagegen reden, eine schwierige Sache.
+
+
+::: 3
+
+Epikur selbst sagt nämlich, dass über die Lust nicht einmal
+Beweise angeführt werden müssen, weil das Urteil dessen in den
+Sinnen gesetzt sei, sodass es genüge, dass wir erinnert werden,
+nichts darauf ankommt, dass wir belehrt werden. Aus jenem Grund
+war die Erörterung für mich in beiden Teilen einfach. Gar nichts 
+verworrenes oder verwickeltes gab es nämlich in der Unterhaltung
+mit Torquatus, und meine Rede, wie mir scheint, war deutlich.
+Du weißt aber gewiss, wie scharfsinnig oder vielmehr spitzfindig 
+die Art des Debattierens der Stoiker ist, und das mit den
+Griechen [gilt] dann [noch] mehr für uns, die sogar Wörter
+erfinden und neuen Dingen neue Namen geben müssen. So wird sich
+wahrlich kein einigermaßen Gebildeter wundern, [daran] denkend, 
+dass es in jedem Fachgebiet, dessen Gebrauch nicht alltäglich
+und gemein ist, viel Neues an Namen gibt, wenn die Benennungen
+derer Dinge gebildet werden, die es in jedem Fachgebiet gibt.
+
+
+::: 4
+
+Und so gebrauchen sowohl Dialektiker als auch Physiker ihre
+eigenen Wörter, die selbst einem Griechen nicht bekannt sind,
+Geometriker und Musiker aber, auch Grammatiker, sprechen nach
+ihrem gewissen eigenen Brauch. Selbst die Handwerke der
+Rhetoriker, die ganz öffentlich und volkstümlich sind, nutzen
+dennoch gleichsam private und eigene Wörter bei der Lehre. 
+Und auch wenn ich die der kunstvollen Disziplinen und edlen
+übergehe, könnten nicht einmal Handwerker ihr Handwerk
+betreiben, wenn sie nicht Bezeichnungen verwenden würden, die
+uns unbekannt, ihnen selbst geläufig sind. Ja sogar im Ackerbau,
+der von jedem feinen Geschmack abweicht, kennzeichnete man die
+Dinge, mit denen man es zu tun hatte, mit neuen Namen. Umso mehr
+ist so von einem Philosophen zu verfahren; Philosophie ist
+nämlich die Wissenschaft vom Leben, während sie sich darüber
+auseinandersetzt, kann sie keine Wörter vom Forum aufgreifen.
+
+
+::: 5
+
+Wiewohl von allen Philosophen die Stoiker am meisten erneuert
+haben, und Zeno, deren Haupt, war nicht so sehr Erfinder der
+Dinge als neuer Wörter. Wenn das in dieser Sprache gestattet
+ist, die die meisten für die reichere halten, dass die
+gelehrtesten Menschen über Dinge, die nicht verbreitet sind,
+ungebräuchliche Wörter gebrauchen, um wieviel mehr muss uns das
+erlaubt sein, die nun zum ersten Mal wagen, diese Dinge
+anzurühren? Un da ich schon oft sagte, und gewiss mit irgend
+einer Wehklage nicht nur de Griechen, sondern auch derer, die
+mehr zu den Griechen als zu uns gehören wollen, dass wir den
+Griechen nicht nur nicht in der Menge an Worten unterlegen,
+sondern in ihr sogar überlegen, es muss also angestrebt werden,
+dass wir dieses nicht nur in unseren Fertigkeiten, sondern auch
+in denen jener selbst erreichen. Trotzdem wollen wir diese
+Wörter, die wir nach Anweisung der Alten anstelle der
+Lateinischen gebrauchen, wie Philosophie selbst, wie Rhetorik,
+Dialektik, Grammatik, Geometrie, Musik, obwohl sie auf Latein
+ausgedrückt werden können, dennoch, weil sie ja durch Gebrauch
+angenommen wurden, als unsere führen.
+
+
+::: 6
+
+Und das nämlich über die Bezeichnungen der Dinge. Über die Dinge
+selbst aber scheue ich oftmals, Brutus, dass ich kritisiert
+werde, wenn ich dir solches schreibe, der du, wenn schon in der
+Philosophie, dann besonders in den höchsten Gebieten der
+Philosophie so sehr vorangeschritten bist. Wenn ich dies täte,
+wie wenn ich dich belehrte, würde ich zu Recht getadelt werden.
+Davon bin ich aber weit entfernt und ich schicke sie dir nicht,
+damit du etwas erfährst, was dir schon bekannt ist, sondern weil
+ich bei deinem Namen leicht Ruhen kann und weil ich in dir einen
+äußerst gerechten Kritiker und Richter derjenigen Studien habe,
+die mir mit dir gemeinsam sind. So wirst du gewissenhaft
+achtgeben, wie du es gewohnt bist, und wirst diese Streitigkeit
+entscheiden, die ich mit deinem Onkel hatte, einem großartigen
+und einzigartigen Mann.
+
 
 :: 8 (20160609)
 
